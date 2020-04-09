@@ -5,10 +5,10 @@ Breakout applet.
 * Not Sure
 
 ## COMPILE TOOLS
-* 
+* Java
  
 ## AUTHORS
-* 
+*  Lou Schiano
 
 ## LINKS
-* 
+* http://www.appletparadise.com/
